@@ -89,8 +89,6 @@ client = OpenAI(
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or want to add more Voice AI features, please open a pull request or file an issue.
 
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Developed as part of the Navigate Labs AI training program.*
